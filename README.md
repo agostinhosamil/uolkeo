@@ -4,7 +4,7 @@ Id simply adds new features to javascript and add some of the lattest features i
 
 Simple using:
 
-``javascript
+```javascript
 uolkeo.$$ready(function(){
   uolkeo.$$scut ( 'alt+ctrl+m', function () {
     console.log ('Used alt+ctrl+m shortcut')
